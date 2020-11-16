@@ -33,7 +33,7 @@
 <br />
   
 <img align="left" alt="dessasin" src="https://github-readme-stats.codestackr.vercel.app/api?username=dessasin&show_icons=true&hide_border=true" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dessasin)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dessasin)
 
 [website]: https://mntorun.pw
 [twitter]: https://twitter.com/dessasin
