@@ -1,6 +1,6 @@
 ### Hi there, I'm Nurullah - aka [Dessasin][website] 👋
 
-## I'm a Developer, Calligrapher and Part-Time Goat🐐!!
+## I'm a Developer, Calligrapher and Part-Time Goat 🐐
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other beginner developers
@@ -32,7 +32,8 @@
 <br />
 <br />
   
-<img align="left" alt="dessasin" src="https://github-readme-stats.codestackr.vercel.app/api?username=dessasin&show_icons=true&hide_border=true&theme=radical" />
+<img align="left" alt="dessasin" src="https://github-readme-stats.codestackr.vercel.app/api?username=dessasin&show_icons=true&hide_border=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dessasin)]
 
 [website]: https://mntorun.pw
 [twitter]: https://twitter.com/dessasin
