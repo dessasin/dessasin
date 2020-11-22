@@ -1,6 +1,6 @@
 ### Hi there, I'm Nurullah - aka [Dessasin][website] 👋
 
-## I'm a Developer, Calligrapher and Part-Time Goat 🐐
+## I'm a Junior Front-end Developer, Calligrapher and Part-Time Goat 🐐
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other beginner developers
