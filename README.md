@@ -2,8 +2,8 @@
 
 ## I'm a Junior Front-end Developer, Calligrapher and Part-Time Goat 🐐
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other beginner developers
+- 🌱 I’m currently learning Vuejs and Reactjs 💾
+- 🤝 I’m looking to collaborate with other beginner developers
 - 🥅 2021 Goals: Release my first desktop & mobile app
 - ⚡ Fun fact: I love to play video games and feed animals 
 
