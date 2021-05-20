@@ -32,7 +32,6 @@
 <br />
 <br />
   
-<img align="left" alt="dessasin" src="https://github-readme-stats.codestackr.vercel.app/api?username=dessasin&show_icons=true&hide_border=true" />
 
 [website]: https://mntorun.pw
 [twitter]: https://twitter.com/dessasin
