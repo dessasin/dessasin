@@ -2,11 +2,6 @@
 
 ## I'm a Junior Front-end Developer, Calligrapher and Part-Time Goat 🐐
 
-- 🌱 I’m currently learning Vuejs and Reactjs 
-- 🤝 I’m looking to collaborate with other beginner developers
-- 🥅 2021 Goals: Release my first desktop & mobile app
-- ⚡ Fun fact: I love to play video games and feed animals 
-
 ### Connect with me:
 
 [<img align="left" alt="mntorun.pw" width="22px" color="#121212" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
